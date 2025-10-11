@@ -1,4 +1,4 @@
-*** <p align='center'>mleczus' Auto-player</p>
+# <p align='center'>mleczus' Auto-player</p>
 
 <p align='center'>
   <strong>Powerful. Lots of functions.<br>
