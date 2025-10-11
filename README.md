@@ -2,9 +2,7 @@
 
 
 <p align='center'>
-  Powerful. Lots of functions.
+  Powerful. Lots of functions.<br>
   The ultimate auto-player for Roblox.
 </p>
 
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Mleczyk/mleczus-autoplayer/total)
