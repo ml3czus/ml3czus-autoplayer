@@ -8,5 +8,5 @@
 ***
 
 <p align='center'>
-  <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Mleczyk/mleczus-autoplayer/total">
+  <img alt="badge" src="https://img.shields.io/github/downloads/mleczyk/mleczus-autoplayer/total?style=for-the-badge&label=download&color=00bb00&link=https%3A%2F%2Fgithub.com%2FMleczyk%2Fmleczus-autoplayer%2Freleases%2F">
 </p>
