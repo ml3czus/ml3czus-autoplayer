@@ -1,4 +1,4 @@
-# mleczus' Auto-player
+# <p align='center'>mleczus' Auto-player</p>
 
 
 <p align='center'>
