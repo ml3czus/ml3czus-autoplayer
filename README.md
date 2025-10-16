@@ -17,3 +17,12 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mleczyk/mleczus-autoplayer?style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/mleczyk/mleczus-autoplayer?style=social">
 </p>
+
+# Documentation
+
+Everything about how to make sheets and how to use the auto-player will be on the site I swear
+
+# Download
+
+Everything is in the Releases tab. I won't put any files in the Code tab.
+If the AV will detect the auto-player as a virus don't worry it's not malicious (i will put a virustotal scan later) (i'm using my own software 😭)
