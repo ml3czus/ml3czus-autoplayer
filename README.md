@@ -24,5 +24,5 @@ Everything about how to make sheets and how to use the auto-player will be on th
 
 # Download
 
-<p>Everything is in the Releases tab. I won't put any files in the Code tab.<br>
+<p>Auto-player is in the Releases tab. Source code will be in the Code tab.<br>
 If the AV will detect the auto-player as a virus don't worry it's not malicious (i will put a virustotal scan later) (i'm using my own software 😭)</p>
