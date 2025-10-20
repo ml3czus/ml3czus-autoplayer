@@ -14,10 +14,10 @@
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ml3czus/ml3czus-autoplayer?label=Commit%20activity">
 </p>
 
-<p align='center'>
+<p align='center' style='gap: 3px;'>
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ml3czus/ml3czus-autoplayer?style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/ml3czus/ml3czus-autoplayer?style=social">
-  <a href='https://discord.com/invite/npjF3xXdku/'><img alt="Discord" src="https://img.shields.io/discord/1428688884950372474?style=social&logo=discord&logoColor=black"></a>
+  <a href='https://discord.com/invite/AJNxrPpcMG/'><img alt="Discord" src="https://img.shields.io/discord/1428688884950372474?style=social&logo=discord&logoColor=black"></a>
 </p>
 
 # Documentation
