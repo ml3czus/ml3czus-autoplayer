@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Actions Status Discord
+        if: always()
+        uses: sarisia/actions-status-discord@v1.15.4
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
